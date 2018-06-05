@@ -1,0 +1,806 @@
+[
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527813579365,
+            "changeTime": 1527813579365,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527813579366,
+            "changeTime": 1527813579366,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528078279705,
+            "changeTime": 1528078279705,
+            "contentHash": "1a6d5d5caad65d9603cbde6c2212ee394b0a48ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527813579367,
+            "changeTime": 1527813579367,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528076104093,
+            "changeTime": 1528076104093,
+            "contentHash": "92435be5052f9beecf8c1c64d4300de16d7db5d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528076104102,
+            "changeTime": 1528076104158,
+            "contentHash": "01e62e8f969d1224b9785ce9509e9b90b753394f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Account\\recordTypes",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Account\\recordTypes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528076104135,
+            "changeTime": 1528076104135,
+            "contentHash": "9d93b8189988e8ba7cf4335b909e8913b942938a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Account\\recordTypes\\HH_Account.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Account\\recordTypes\\HH_Account.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1525744452826,
+            "changeTime": 1525745785104,
+            "isWorkspace": false,
+            "contentHash": "c631d6137870fa0eb22f5554164e21ccb5b71ebe"
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Account\\recordTypes\\Organization.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Account\\recordTypes\\Organization.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 281,
+            "modifiedTime": 1525744452826,
+            "changeTime": 1525745785104,
+            "isWorkspace": false,
+            "contentHash": "03e53d9d33e401bf8c737686e2153ad239aa14c9"
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527813799333,
+            "changeTime": 1527976225432,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528075536371,
+            "changeTime": 1528075536371,
+            "contentHash": "7262b1fb921397420160519116dd71b289b5b8f8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Bequest_Confirmed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Bequest_Confirmed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1527809956908,
+            "changeTime": 1527976159250,
+            "contentHash": "30380e72d6b83275e81c0d6d0e37da41b5c4fc22",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Constituent_Id__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Constituent_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1527809956903,
+            "changeTime": 1527976159258,
+            "contentHash": "53af8a895ecb94de39075d8c01bafc1673214343",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Current_Community_Fundraisers__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Current_Community_Fundraisers__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1527809956913,
+            "changeTime": 1527976159270,
+            "contentHash": "f7fd57ff56dd43240ebdf88cd9b6efc5ed25344d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Email_Invalid__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Email_Invalid__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1527809956918,
+            "changeTime": 1527976159297,
+            "contentHash": "aaaa83fd03ad3edda4b81bbed31507a65828ad6d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Email_RTS__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Email_RTS__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1527809956922,
+            "changeTime": 1527976159304,
+            "contentHash": "b61397a31958643a222f88d63bf4cd4b99c238a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\High_Value_AB__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\High_Value_AB__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1527809956927,
+            "changeTime": 1527976159316,
+            "contentHash": "2ecf8ccfe76b4a3adaff78ee803d2c211dfef95b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Key_Supporter__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Key_Supporter__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1527809956932,
+            "changeTime": 1527976159443,
+            "contentHash": "dbc8c245cc03e1cb810ea87b5b50643b7a2c7b4f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Acquisition_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Acquisition_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 343,
+            "modifiedTime": 1527977866331,
+            "changeTime": 1527977866331,
+            "contentHash": "746c45d2a0769e871f72a2e1c5dfac4288996f89",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Acquisition_Program_Id__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Acquisition_Program_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 431,
+            "modifiedTime": 1527990002787,
+            "changeTime": 1527990021985,
+            "contentHash": "232809b412c7c0e03ead62288baa7149538a3156",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Acquisition_Program__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Acquisition_Program__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1527977866335,
+            "changeTime": 1527977866335,
+            "contentHash": "154f96a778c8340576816f55fc3a52b4767bcb2a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 385,
+            "modifiedTime": 1528074290606,
+            "changeTime": 1528074290606,
+            "contentHash": "b84142bb1fc80fbbc7d4367d7066189eb2e88309",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_Company__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_Company__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 391,
+            "modifiedTime": 1528074322344,
+            "changeTime": 1528074322344,
+            "contentHash": "d6c1229674527bda78293a95f0d2c88d0e1fc07a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_Country__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_Country__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 391,
+            "modifiedTime": 1528074355823,
+            "changeTime": 1528074355823,
+            "contentHash": "db7e4eb08ee7467d7670af8ab1c8b061df8c18db",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_Metropolitan_Area__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_Metropolitan_Area__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1528074386326,
+            "changeTime": 1528074386326,
+            "contentHash": "190a0703bd835ac2ea987f9ed9e59419abe62fd2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_Phone_Area_Code__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_Phone_Area_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 407,
+            "modifiedTime": 1528074427969,
+            "changeTime": 1528074427969,
+            "contentHash": "f240dfc546c6c9bbfdf8b7d719f1817b3e4e0fe5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_Postal_Code__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_Postal_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 399,
+            "modifiedTime": 1528074466860,
+            "changeTime": 1528074466860,
+            "contentHash": "091c3529d8b223538c4ca609ca3ccf98965cf7e3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_State_Region__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Inferred_State_Region__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 401,
+            "modifiedTime": 1528074505363,
+            "changeTime": 1528074505363,
+            "contentHash": "ae6b0491ac8f2f4eec1c150fd83173a832690dc4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Lead_Score__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Lead_Score__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1527977866339,
+            "changeTime": 1527977866339,
+            "contentHash": "1cbe8b7457eacd9a4c12307c80c75daf3f02c627",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Original_Referrer__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Original_Referrer__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1527990063173,
+            "changeTime": 1527990063173,
+            "contentHash": "d17898f1e3b6e56d8259cceb9df0d128c9a176a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Original_Search_Engine__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Original_Search_Engine__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1527990106384,
+            "changeTime": 1527990106384,
+            "contentHash": "febb2b1f65d7dcd9307c4a1959c26de6ecd96e76",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Original_Search_Phrase__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Original_Search_Phrase__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1527990142397,
+            "changeTime": 1527990142397,
+            "contentHash": "14dc99eb86ab4d3aedc71c9a55b9fe120a9a9778",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Original_Source_Info__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Original_Source_Info__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 399,
+            "modifiedTime": 1527990180122,
+            "changeTime": 1527990180122,
+            "contentHash": "2e859c0de3aa8e854351bc40948bd6adf5c3d48a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Original_Source_Type__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\mkto71_Original_Source_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 399,
+            "modifiedTime": 1528074256220,
+            "changeTime": 1528074256220,
+            "contentHash": "7509ce375370f787d646ffd2cd86f50c1468c20d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Most_Recent_OT_Purchase_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Most_Recent_OT_Purchase_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1527809956937,
+            "changeTime": 1527976159453,
+            "contentHash": "a1ef061a30016f4708c929c785b2227928ac417c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Reg_Id__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\Reg_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1528075557197,
+            "changeTime": 1528075557197,
+            "contentHash": "79815f1e6c367f7e722fee9ddaace953706d7698",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\RG_HoneyMoon__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Contact\\fields\\RG_HoneyMoon__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 336,
+            "modifiedTime": 1527809956942,
+            "changeTime": 1527976159545,
+            "contentHash": "2a024c2afc6580e2e53f300d09501f2ca0b251e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Lead",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Lead",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527977866295,
+            "changeTime": 1527977866295,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Lead\\fields",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Lead\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1527977866307,
+            "changeTime": 1527977866307,
+            "contentHash": "33c5bcf51b3a87e95ce88c93991eb65620eb8cd9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Lead\\fields\\mkto71_Acquisition_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Lead\\fields\\mkto71_Acquisition_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 343,
+            "modifiedTime": 1527977866301,
+            "changeTime": 1527977866301,
+            "contentHash": "746c45d2a0769e871f72a2e1c5dfac4288996f89",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Lead\\fields\\mkto71_Acquisition_Program__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Lead\\fields\\mkto71_Acquisition_Program__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1527977866306,
+            "changeTime": 1527977866306,
+            "contentHash": "154f96a778c8340576816f55fc3a52b4767bcb2a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Lead\\fields\\mkto71_Lead_Score__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Lead\\fields\\mkto71_Lead_Score__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1527977866311,
+            "changeTime": 1527977866311,
+            "contentHash": "1cbe8b7457eacd9a4c12307c80c75daf3f02c627",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528076077778,
+            "changeTime": 1528076077882,
+            "contentHash": "2e0e7bbd7fef610e9348b3c75ec4b5654129db09",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\businessProcesses",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\businessProcesses",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528078039530,
+            "changeTime": 1528078039530,
+            "contentHash": "7785acf9ca0cccb128770f91378e76eeed40ece1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528076077859,
+            "changeTime": 1528076077859,
+            "contentHash": "b16ec40a92e8d9c156ca50cefe67d9bca6e81748",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\Donation.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\Donation.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 4309,
+            "modifiedTime": 1528075969670,
+            "changeTime": 1528075969670,
+            "contentHash": "b10008ecf39e9dbefe5976cb5c8a825e9fb4cc9c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\Grant.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\Grant.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 4643,
+            "modifiedTime": 1528075969673,
+            "changeTime": 1528075969673,
+            "contentHash": "7700a753ebb9ecc9091537122c064fbc1d108282",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\In_Kind_Gift.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\In_Kind_Gift.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 5579,
+            "modifiedTime": 1528075969678,
+            "changeTime": 1528075969678,
+            "contentHash": "f80dcbda30d9dfa7c73e3ad2a26ff9982ff57f16",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\MajorGift.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\MajorGift.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 4676,
+            "modifiedTime": 1528075969683,
+            "changeTime": 1528075969683,
+            "contentHash": "a889bf4d1ec01fde6fb234fce63c64e287d4b51a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\Matching_Gift.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\Matching_Gift.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 4726,
+            "modifiedTime": 1528075969691,
+            "changeTime": 1528075969691,
+            "contentHash": "8b53aa6b1631dc60d60c7fa21b4c98c19ad7da67",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\Membership.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\recordTypes\\Membership.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 4230,
+            "modifiedTime": 1528075969696,
+            "changeTime": 1528075969696,
+            "contentHash": "78cfa79261c56d736847b7935ce1a3b8e8acbf15",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528076517093,
+            "changeTime": 1528076517093,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528075916766,
+            "changeTime": 1528075916766,
+            "contentHash": "71fe312c00cdd77f1cda3604a8b6b8373a84c54c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\businessProcesses\\NPSP_Default.businessProcess-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hcastano\\Documents\\SF-myWorkspace\\SFDX-Projects\\my_sfdx_project\\oxfamtest\\force-app\\main\\default\\objects\\Opportunity\\businessProcesses\\NPSP_Default.businessProcess-meta.xml",
+            "isDirectory": false,
+            "size": 1250,
+            "modifiedTime": 1525744452857,
+            "changeTime": 1525745785167,
+            "contentHash": "c30f38965236c40166182d0bfa1076b85572d3e2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

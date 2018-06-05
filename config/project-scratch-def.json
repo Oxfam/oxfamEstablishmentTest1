@@ -1,0 +1,7 @@
+{
+    "orgName": "Oxfam - Australia",
+    "edition": "Enterprise",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
